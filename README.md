@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahdi+Ashiyani;+Computer+Engineering+Student;+Tech+Stack:+C,+C++,+Java,+Python;+Exploring+LLMs,+CNNs+&+Networks;+Preparing+for+IELTS+&+2027+Internships!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahdi+Ashiyani;+Computer+Engineering+Student;+Tech+Stack:+C,+Cpp,+Java,+Python;+Exploring+LLMs,+CNNs+&+Networks;+Preparing+for+IELTS+&+2027+Internships!;" />
 </h1>
  
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
